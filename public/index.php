@@ -1,3 +1,3 @@
-hi from public/index.php
+hi from <?php print __FILE__ ?>"
 <br>
 <?php phpinfo();
